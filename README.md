@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi
+<head>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Corinbeom%20Github&fontSize=90" />
 </div>
+</head>
+<body>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+</body>
 <!--
 **Corinbeom/Corinbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
