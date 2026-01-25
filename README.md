@@ -38,19 +38,19 @@
 - AI 기반 도서 추천 중심의 멀티 서비스 독서 플랫폼
 - Expo 앱 / Spring Boot API / FastAPI AI 워커를 역할 기준으로 분리해 결합도 최소화
 - Redis 캐시 TTL, 벡터 검색 파이프라인, SSE 알림으로 사용자 플로우를 끊기지 않게 설계
-- Repo: [Read On Me](https://google.com](https://github.com/Corinbeom/READ-ON-ME) "Read On Me로 이동합니다")
+- Repo: [Read On Me](https://github.com/Corinbeom/READ-ON-ME "Read On Me로 이동합니다")
 
 ### SingSongGame
 - 실시간 멀티플레이 음악/퀴즈 게임
 - STOMP 기반 WebSocket + Redis Pub/Sub로 이벤트 흐름을 분리해 상태 동기화 정합성 확보
 - 룸 단위 진행 흐름이 꼬이지 않게 이벤트 순서와 상태 업데이트 경계를 설계
-- Repo: [SingSongGame](https://google.com](https://github.com/Corinbeom/READ-ON-ME) "SingSongGame으로 이동합니다")
+- Repo: [SingSongGame](https://github.com/orgs/DRS-SingSongGame/repositories "SingSongGame으로 이동합니다")
 
 ### KorPlace
 - 서울시/경기도/관광공사 등 공공데이터 문화행사·관광 정보를 한곳에서 조회하는 통합 서비스
 - 기관별 응답 구조 차이를 표준화해 프론트 예외 처리를 줄이고 검색 조건을 단일화
 - 동적 조건 조회와 호출 최적화로 평균 응답 속도 개선 경험
-- Repo: [KorPlace](https://google.com](https://github.com/Corinbeom/READ-ON-ME) "KorPlace로 이동합니다")
+- Repo: [KorPlace](https://github.com/orgs/MatsuriSeoul/repositories "KorPlace로 이동합니다")
 
 ## Highlights
 - E2E 재현 가능한 로컬 개발 환경 구성: docker-compose 기반으로 앱–서버–워커 연동 검증
@@ -59,7 +59,7 @@
 
 
 ## Links
-Blog: [Velog](https://google.com](https://github.com/Corinbeom/READ-ON-ME) "Velog로 이동합니다")
+Blog: [Velog](https://velog.io/@corinbeom/posts "Velog로 이동합니다")
 
 ## Contact
 ✉️ Email : eun4005@gmail.com
